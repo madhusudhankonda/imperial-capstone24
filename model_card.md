@@ -1,0 +1,1 @@
+![Model Card](../docs/model_card.md)
