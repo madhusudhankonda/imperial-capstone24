@@ -1,5 +1,11 @@
 # Predicting the Damage from Natural Disasters 
-### An AI/ML Capstone Project for Imperial AIML Professional Certificate (May 2024 Cohort)
+## An AI/ML Capstone Project for Imperial AIML Professional Certificate (May 2024 Cohort)
+
+# Project Introduction
+
+This project focuses on leveraging machine learning to analyze satellite imagery, specifically targeting the urban landscape of Rio de Janeiro. By employing state-of-the-art algorithms, I aim to classify land use patterns and monitor environmental changes over time. The insights generated from this analysis can be invaluable for urban planners, researchers, and policymakers, enabling them to make data-driven decisions that promote sustainable development. The model not only enhances the understanding of urban dynamics but also contributes to the broader field of geo-spatial analysis and environmental monitoring.
+
+The model utilizes advanced machine learning techniques to analyze satellite imagery of Rio de Janeiro. By identifying and classifying various land use patterns, it provides insights into urban development and environmental changes. The model achieved an accuracy of over 80% in distinguishing between different land types, demonstrating its effectiveness. This information can assist city planners and researchers in making informed decisions regarding urban planning and resource management.
 
 ## Training data
 
