@@ -1,5 +1,5 @@
 # Predicting the Damage from Natural Disasters 
-### An AI/ML Capstone Project for Imperial AIML Professional Certificate (June 2024 Cohort)
+### An AI/ML Capstone Project for Imperial AIML Professional Certificate (May 2024 Cohort)
 
 ## Training data
 
