@@ -1,1 +1,1 @@
-![Model Card](docs/model_card.md)
+[Model Card](docs/model_card.md)
